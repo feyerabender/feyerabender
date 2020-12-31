@@ -5,7 +5,7 @@ I build all sorts of software. I specialize in C# and .NET, but have experience 
 Here are some links:
 
 <ul>
-<li><a href="" rel="nofollow">My portfolio</a></li>
-<li><a href="" rel="nofollow">My learning path</a></li>
-<li><a href="" rel="nofollow">My resume</a></li>
+<li><a href="#" rel="nofollow">My portfolio</a></li>
+<li><a href="#" rel="nofollow">My learning path</a></li>
+<li><a href="#" rel="nofollow">My resume</a></li>
 </ul>
