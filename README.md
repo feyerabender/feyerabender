@@ -6,6 +6,6 @@ Here are some links:
 
 <ul>
 <li><a href="https://github.com/feyerabender/Portfolio" rel="nofollow">My portfolio</a></li>
-<li><a href="#" rel="nofollow">My learning path</a></li>
+<li><a href="https://github.com/feyerabender/LearningPath" rel="nofollow">My learning path</a></li>
 <li><a href="#" rel="nofollow">My resume</a></li>
 </ul>
